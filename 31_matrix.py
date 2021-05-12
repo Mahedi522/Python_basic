@@ -28,3 +28,8 @@ print("add")
 print(m3)
 print("mul")
 print(m4)
+
+print(m1.dtype)
+print(m1.ndim)
+print(m1.shape)
+print(m1.size)
